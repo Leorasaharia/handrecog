@@ -1,6 +1,4 @@
 I wanted to create something immersive — where I could control virtual objects just by moving my hand in front of a webcam. No VR gloves. No controllers. Just me, my webcam, Python, and Unity.
-![Uploading image.png…]()
-
 
 My vision was simple:
 Build a Unity scene with floating blocks that I could grab, push, or destroy using just hand gestures — like making a fist or doing a pushing motion.
